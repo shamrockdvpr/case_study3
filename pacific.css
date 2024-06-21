@@ -2,7 +2,7 @@ body {background-color:#90C7E3; color:#666666; font-family: Verdana,Arial, san-s
 
 h1 {color: #FFFFFF; font-family: Georgia, serif; text-align: center; padding-top: 0.5em}
 
-nav {font-weight: bold; background-color: #BBDEFB, padding-top: 0.5em; padding-right: 0.5em; padding-bottom: 0.5em; text-align: center}
+nav {font-weight: bold; background-color: #BBDEFB; padding-top: 0.5em; padding-right: 0.5em; padding-bottom: 0.5em; text-align: center}
 
 nav a {text-decoration: none;}
 
