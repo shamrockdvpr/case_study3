@@ -18,12 +18,12 @@ footer {font-size: 0.7em; font-style: italic; text-align: center; padding: 1em}
 
 #wrapper {width:80%; margin-right:auto; margin-left:auto; background-color: #FFFFFF; min-width:960px; max-width: 2048px; box-shadow: 5px 5px 5px #000000}
 
-#header {background-color: #002171; background-image: url(images/sunset.jpg); background-repeat: no-repeat; background-position: right; height:72px}
+#header {background-color: #002171; background-image: url(sunset.jpg); background-repeat: no-repeat; background-position: right; height:72px}
 
 #main {padding-left: 2em; padding-right: 2em}
 
-#homehero {height: 300px; background-image: url(images/coast.jpg); background-repeat: no-repeat; background-size: 100% 100%;}
+#homehero {height: 300px; background-image: url(coast.jpg); background-repeat: no-repeat; background-size: 100% 100%;}
 
-#yurthero {height: 300px; background-image: url(images/yurt.jpg); background-repeat: no-repeat; background-size: 100% 100%;}
+#yurthero {height: 300px; background-image: url(yurt.jpg); background-repeat: no-repeat; background-size: 100% 100%;}
 
-#trailhero {height: 300px; background-image: url(images/trail.jpg); background-repeat: no-repeat; background-size: 100% 100%;}
+#trailhero {height: 300px; background-image: url(trail.jpg); background-repeat: no-repeat; background-size: 100% 100%;}
